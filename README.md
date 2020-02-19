@@ -2,6 +2,7 @@
 
 One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. Oftentimes, *how* we design our code is just as important as the code itself. In this homework assignment, your challenge is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable, you will also be ensuring that all unit tests pass.
 
+<div class="tenor-gif-embed" data-postid="11877904" data-share-method="host" data-width="100%" data-aspect-ratio="1.5384615384615388"><a href="https://tenor.com/view/best-team-teamwork-best-team-ever-anchorman-ron-burgundy-gif-11877904">Best Team Ever!! GIF</a> from <a href="https://tenor.com/search/bestteam-gifs">Bestteam GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Instructions
 

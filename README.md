@@ -164,7 +164,7 @@ We would like you to have well over 200 commits by graduation, so commit early a
 
 Example Of CLI:
 
-![Employee Summary](../Assets/giphy.gif)
+![Employee Summary](/giphy.gif)
 
 
 ## Submission on BCS
